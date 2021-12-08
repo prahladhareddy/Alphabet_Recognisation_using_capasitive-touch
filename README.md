@@ -1,1 +1,0 @@
-# Alphabet_Recognisation_using_capasitive-touch
